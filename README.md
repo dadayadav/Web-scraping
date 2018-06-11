@@ -1,2 +1,2 @@
-# Web-scrapping
-a basic form of web scrapping 
+# Web-scraping
+a basic form of web scraping 
